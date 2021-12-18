@@ -1,10 +1,10 @@
 👋 Hi, I’m Gerald.
 
 👀 I’m interested in
-- 🔮 Quantum Computing
+- 🔮 [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - 🦀 [Rust Programming Language](https://www.rust-lang.org/)
 - 💻 [RISC-V Instruction Set Architecture](https://riscv.org/)
-- 🌍 Climate Change Mitigation
+- 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)
 - 🐋 [Container (aka Cloud-Native) Computing](https://www.cncf.io/)
 
 🌱 I’m currently learning Jupyter, pandas, and Python.
