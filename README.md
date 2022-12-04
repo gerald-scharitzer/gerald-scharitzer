@@ -7,7 +7,7 @@
 - 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)
 - 🐋 [Container (aka Cloud-Native) Computing](https://www.cncf.io/)
 
-🌱 I’m currently learning Jupyter, pandas, and Python.
+🌱 I’m currently learning Rust.
 
 <!---
 gerald-scharitzer/gerald-scharitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
