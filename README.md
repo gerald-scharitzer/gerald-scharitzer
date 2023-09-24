@@ -3,9 +3,9 @@
 👀 I’m interested in
 - 🔮 [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - 🦀 [Rust Programming Language](https://www.rust-lang.org/)
-- 💻 [RISC-V Instruction Set Architecture](https://riscv.org/)
 - 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)
 - 🐋 [Container (aka Cloud-Native) Computing](https://www.cncf.io/)
+- 💻 [RISC-V Instruction Set Architecture](https://riscv.org/)
 
 🌱 I’m currently learning Rust.
 
