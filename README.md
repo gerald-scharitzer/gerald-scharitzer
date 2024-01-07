@@ -7,7 +7,7 @@
 - 🐋 [Container (aka Cloud-Native) Computing](https://www.cncf.io/)
 - 💻 [RISC-V Instruction Set Architecture](https://riscv.org/)
 
-🌱 I’m currently learning Rust.
+🌱 I’m currently learning [Go](https://go.dev/).
 
 <!---
 gerald-scharitzer/gerald-scharitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
