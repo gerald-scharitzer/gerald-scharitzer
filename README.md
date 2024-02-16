@@ -2,6 +2,7 @@
 
 👀 I’m interested in
 - 🔮 [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing)
+- 🔒 [Post-Quantum Cryptography](https://www.etsi.org/technologies/quantum-safe-cryptography)
 - 🦀 [Rust Programming Language](https://www.rust-lang.org/)
 - 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)
 - 🐋 [Container (aka Cloud-Native) Computing](https://www.cncf.io/)
