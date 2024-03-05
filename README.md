@@ -4,9 +4,9 @@
 
 🔒 [Post-Quantum Cryptography](https://www.etsi.org/technologies/quantum-safe-cryptography) and [Cryptographic Agility](https://en.wikipedia.org/wiki/Cryptographic_agility) uphold our trust in computer systems.
 
-🦀 The [Rust Programming Language](https://www.rust-lang.org/) enables us to create reliable, efficient, and comprehensible software.
+🦀 The [Rust Programming Language](https://www.rust-lang.org/) enables us to create reliable, efficient, and ergonomic software.
 
-🐋 [Cloud-Native Computing (aka containers)](https://www.cncf.io/) and the [RISC-V Instruction Set Architecture](https://riscv.org/) free up computing in time and space, and make open source and open standards ubiquitous.
+🐋 [Cloud-Native Computing (aka containers)](https://www.cncf.io/) and the [RISC-V Instruction Set Architecture](https://riscv.org/) liberate computing in time and space, and make open source and open standards ubiquitous.
 
 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation) through renewable energy and sustainable economy are the top goals of this century.
 
