@@ -4,7 +4,7 @@
 
 🔒 [Post-Quantum Cryptography](https://www.etsi.org/technologies/quantum-safe-cryptography) and [Cryptographic Agility](https://en.wikipedia.org/wiki/Cryptographic_agility) uphold our trust in computer systems.
 
-🦀 The [Rust Programming Language](https://www.rust-lang.org/) enables us to create reliable, efficient, and ergonomic software.
+🦀 Modern programming languages like [Rust](https://www.rust-lang.org/) and [Mojo](https://www.modular.com/mojo) enable us to create reliable, efficient, and ergonomic software.
 
 🐋 [Cloud-Native Computing (aka containers)](https://www.cncf.io/) and the [RISC-V Instruction Set Architecture](https://riscv.org/) liberate computing in time and space, and make open source and open standards ubiquitous.
 
