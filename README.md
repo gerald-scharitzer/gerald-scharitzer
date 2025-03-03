@@ -10,7 +10,7 @@
 
 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation) through renewable energy and sustainable economy are the top goals of this century.
 
-🌱 I’m currently learning [Mojo](https://docs.modular.com/mojo/manual/).
+🌱 I’m currently learning [Ionic React](https://ionicframework.com/docs/react), because I want to write the UI once and run it anywhere.
 
 <!---
 gerald-scharitzer/gerald-scharitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
