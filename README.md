@@ -10,7 +10,7 @@
 
 🌍 [Climate Change Mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation) through renewable energy and sustainable economy are the top goals of this century.
 
-🌱 I’m currently learning [Mojo](https://www.modular.com/mojo), because I want safety, flexibility, and performance.
+🌱 I’m currently learning [Mojo](https://mojolang.org/), because I want safety, flexibility, and performance.
 
 <!---
 gerald-scharitzer/gerald-scharitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
